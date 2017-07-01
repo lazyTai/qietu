@@ -1,0 +1,50 @@
+
+
+*{paddding:0;margin:0;}
+/*div{width:7.5rem;}*/
+img{width:100%;display: block}
+
+.margintop100{
+	margin-top: 0.8rem;
+}
+.header {
+	height:0.8rem;
+	width: 100%;
+	line-height: 0.8rem;
+	display: flex;
+	background: #A3E8C2;
+	padding-top: 0.2rem;
+	box-sizing: border-box;
+	padding-left: 0.23rem;
+	padding-right: 0.6rem;
+	position: fixed;
+	top: 0;
+}
+.header .row1{
+	width: .40rem;
+	height: .40rem;
+	margin-right: 0.68rem;
+}
+
+.header .row2{
+	display: flex;
+	flex-grow: 1;
+}
+.header .row2 input{
+	height: .40rem;
+	width: 100%;
+	border-radius: 50px;
+	border: none;
+	outline: 0;
+	background: #A3E8C2;
+	border:1px solid #eee;
+}
+.header .row2 .open{
+	position: relative;
+	left: -50px;
+}
+.header .row3{
+	margin-left: 0.3rem;
+	width: .40rem;
+	height:.40rem;
+}

@@ -1,0 +1,17 @@
+.magin84{
+	margin-bottom:1.0rem;
+}
+.bottom{
+	height: 0.84rem;
+	width: 100%;
+	background: #75BE0D;
+	display: flex;
+	justify-content: space-around;
+	position: fixed;
+	bottom: 0;
+}
+.bottom .item{
+	width: 0.5rem;
+	height: 0.84rem;
+}
+.bottom .item img{width: 100%;height: 100%}
