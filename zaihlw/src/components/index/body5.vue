@@ -80,7 +80,8 @@
       padding-top: calc(40 * 2 / 100)rem;
     }
     .title{
-      font-size: 20px;padding-bottom:40px;text-align: center;
+      @mixin font-size 20;
+      padding-bottom:40px;text-align: center;
       p{padding: 0;margin: 0}
     }
     .clear:after{
@@ -101,7 +102,9 @@
 
     ul li .img{margin: 10px;size:calc(32 * 2 / 100)rem;
       img{size:100%}}
-    ul li p{font-size: 18px;margin: 7px}
+    ul li p{
+      @mixin font-size 15;
+      margin: 7px}
 
     .bg-g{background: lightskyblue}
     .bg-b{background: #2FDB25}

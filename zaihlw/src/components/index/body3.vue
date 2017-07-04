@@ -50,12 +50,13 @@
   .clear{ clear:both}
   .body3{
     width: 100%;
+    /*padding-bottom: 100px;*/
   }
   .bg {
     background: url("http://www.isto.net.cn/JGsat/Tpl/Mobile/Default/Public/images/bg1.jpg")  no-repeat #eee;;
-    height:600px;
+    height:calc(400*2/100)rem;
     text-align: center;
-    line-height: 600px;
+    line-height:calc(400*2/100)rem;
   }
   .bg-blur {
     float: left;

@@ -96,13 +96,14 @@
     background: url(http://www.isto.net.cn/JGsat/Tpl/Mobile/Default/Public/images/more.png) no-repeat;
     background-size: contain;
   }
-  .row-title1 .miaoshu{color: #d3d3d3;font-size: 13px;
+  .row-title1 .miaoshu{color: #d3d3d3;
+    @mixin font-size 13;
     width: calc(144 * 2 / 100)rem;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
-  .row-title1 .title{font-size: 15px}
+  .row-title1 .title{@mixin font-size 15}
   .row-title1{padding: 5px;}
   .row .row1 img{width: calc(144 * 2 / 100)rem;height: calc(91 * 2 / 100)rem;}
   .content .row{display: flex;justify-content: space-between;

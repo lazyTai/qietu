@@ -46,10 +46,11 @@
 <style scoped>
   .Body31{color: #fff}
   .title{
-    width: 200px;
-    height: 65px;
-    line-height: 65px;
-    text-align: center;font-size: 24px;
+    width: calc(200*2/100)rem;
+    height: calc(65*2/100)rem;;
+    line-height: calc(65*2/100)rem;
+    text-align: center;
+    @mixin font-size 20;
     background: url("http://www.isto.net.cn/JGsat/Tpl/Mobile/Default/Public/images/pr.png");
     background-size: 100%;
     background-repeat:no-repeat;
@@ -61,8 +62,11 @@
     display: flex;
     justify-content: space-around;
   }
-  .row p{font-size: 15px;text-align: center;padding: 0;margin: 0}
+  .row img{size: calc(60*2/100)rem;}
+  .row p{
+    @mixin font-size 15;
+    text-align: center;padding: 0;margin: 0}
 
-  .bigImage{width: 400px;margin-top: 50px}
+  .bigImage{width:  calc(300*2/100)rem;margin-top: 50px;}
   .bigImage img{size: 100%}
 </style>

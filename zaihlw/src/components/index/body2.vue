@@ -12,19 +12,19 @@
         <div class="img">
           <img src="http://www.isto.net.cn/Uploads/201609/57cfacab5b575.png" alt="">
         </div>
-        <span>微信开发</span>
+        <span class="font">微信开发</span>
       </div>
       <div class="q q3">
         <div class="img">
           <img src="http://www.isto.net.cn/Uploads/201609/57cfacbd3d087.png" alt="">
         </div>
-        <span>app开发</span>
+        <span class="font">app开发</span>
       </div>
       <div class="q q4">
         <div class="img">
           <img src="http://www.isto.net.cn/Uploads/201609/57cfaccb733f2.png" alt="">
         </div>
-        <span>销售推广</span>
+        <span class="font">销售推广</span>
       </div>
     </div>
 
@@ -65,5 +65,6 @@
   .row2{height: calc(100*2/100)rem;background: #eee;
     padding-top: calc(23*2/100)rem;box-sizing: border-box;
   }
-  .font{text-align: center;font-size: 18px}
+  .q .font{text-align: center;@mixin font-size 14}
+  .row2 .font{text-align: center;@mixin font-size 14}
 </style>
