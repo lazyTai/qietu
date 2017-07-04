@@ -2,75 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3054e892-0ea0-41d1-909b-ccf4a441c1cb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/css/app.ba277c7761140d3e3811d4c741edf488.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/css/app.ba277c7761140d3e3811d4c741edf488.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/js/app.05b391b065166633b41a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/js/app.05b391b065166633b41a.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/js/manifest.31b298ecd19721869ec3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/js/manifest.31b298ecd19721869ec3.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/01-default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/02-responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/03-vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/04-space-between.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/05-slides-per-view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/06-slides-per-view-auto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/07-centered.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/08-centered-auto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/09-freemode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/10-slides-per-column.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/11-nested.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/12-grab-cursor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/13-scrollbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/14-nav-arrows.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/15-infinite-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/16-effect-fade.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/17-effect-cube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/18-effect-coverflow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/19-keyboard-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/20-mousewheel-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/21-autoplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/22-dynamic-slides.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/23-thumbs-gallery-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/23-thumbs-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/24-multiple-swipers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/25-hash-navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/26-rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/27-jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/28-parallax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/29-custom-pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/30-lazy-load-images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/31-custom-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/32-scroll-container.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/32-slideable-menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/33-responsive-breakpoints.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/34-autoheight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/35-effect-flip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/36-pagination-fraction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/37-pagination-progress.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/38-history.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/38-jquery-ie9-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/demos/39-zoom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/css/swiper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/maps/swiper.jquery.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/maps/swiper.jquery.umd.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/maps/swiper.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.jquery.umd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.jquery.umd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zaihlw/dist/static/swiper/dist/js/swiper.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/dist/index.html" afterPath="$PROJECT_DIR$/zaihlw/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/App.vue" afterPath="$PROJECT_DIR$/zaihlw/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/Body4.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/Body4.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body2.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body2.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body3-1.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body3-1.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body3-2.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body3-2.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body3-3.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body3-3.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body3.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body3.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zaihlw/src/components/index/body5.vue" afterPath="$PROJECT_DIR$/zaihlw/src/components/index/body5.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -121,8 +53,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zaihlw/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="297">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -405,7 +337,7 @@
       <option name="presentableId" value="Default" />
       <updated>1498912318598</updated>
       <workItem from="1498912319763" duration="3134000" />
-      <workItem from="1499130068864" duration="2696000" />
+      <workItem from="1499130068864" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1498912372580</created>
@@ -470,11 +402,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499130380271</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="demo2&#10;">
+      <created>1499132774401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1499132774401</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5830000" />
+    <option name="totallyTimeSpent" value="5917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1331" extended-state="6" />
@@ -648,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zaihlw/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
